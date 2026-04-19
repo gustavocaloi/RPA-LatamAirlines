@@ -1,0 +1,5 @@
+.venv/
+.playwright-profile/
+artifacts/
+__pycache__/
+.pycache/
