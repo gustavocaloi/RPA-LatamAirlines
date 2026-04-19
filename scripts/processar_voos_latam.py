@@ -263,7 +263,10 @@ def build_leg_rows(playwright: Any, row: FlightRow, processed_at: str) -> list[F
 RESULT_FIELDNAMES = ["data_hora_processamento", "origem", "destino", "data_voo", "menor_preco"]
 
 
-def initialize_results_file(output_path: Path) -> None:
+def ensure_results_file(output_path: Path) -> None:
+    if output_path.exists() and output_path.stat().st_size > 0:
+        return
+
     with output_path.open("w", newline="", encoding="utf-8") as file:
         writer = csv.DictWriter(file, fieldnames=RESULT_FIELDNAMES)
         writer.writeheader()
@@ -280,7 +283,7 @@ def run(input_csv: Path, output_csv: Path, headless: bool) -> None:
     rows = load_rows(input_csv)
     PROFILE_DIR.mkdir(exist_ok=True)
     processed_at = processing_timestamp()
-    initialize_results_file(output_csv)
+    ensure_results_file(output_csv)
 
     with sync_playwright() as playwright:
         context = playwright.chromium.launch_persistent_context(
