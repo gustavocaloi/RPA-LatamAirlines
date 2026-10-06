@@ -1,0 +1,7 @@
+.git
+.venv
+.playwright-profile
+.pycache
+__pycache__
+artifacts
+resultado_voos.csv

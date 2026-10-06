@@ -1,0 +1,17 @@
+services:
+  busca-aereo:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: busca-aereo:latest
+    environment:
+      INTERVAL_SECONDS: "3600"
+      INPUT_CSV: /data/voos.csv
+      OUTPUT_CSV: /data/resultado_voos.csv
+      SUMMARY_OUTPUT: /data/resumo_resultado.txt
+      PROFILE_DIR: /data/playwright-profile
+      PLAYWRIGHT_BROWSER_CHANNEL: ""
+      PYTHON_BIN: python
+    volumes:
+      - ./swarm-data:/data
+    restart: unless-stopped
