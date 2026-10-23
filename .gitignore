@@ -4,3 +4,5 @@ artifacts/
 __pycache__/
 .pycache/
 .DS_Store
+AGENT.md
+SKILL.md

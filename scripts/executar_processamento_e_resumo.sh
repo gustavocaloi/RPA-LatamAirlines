@@ -37,6 +37,7 @@ cd "${PROJECT_DIR}"
 INPUT_CSV_PATH="${INPUT_CSV:-${PROJECT_DIR}/voos.csv}"
 OUTPUT_CSV_PATH="${OUTPUT_CSV:-${PROJECT_DIR}/resultado_voos.csv}"
 SUMMARY_OUTPUT_PATH="${SUMMARY_OUTPUT:-${PROJECT_DIR}/resumo_resultado.txt}"
+OFFERS_OUTPUT_PATH="${OFFERS_OUTPUT:-${PROJECT_DIR}/resumo_ofertas.txt}"
 PROFILE_DIR_PATH="${PROFILE_DIR:-${PROJECT_DIR}/.playwright-profile}"
 BROWSER_CHANNEL_VALUE="${PLAYWRIGHT_BROWSER_CHANNEL:-chrome}"
 HEADED_VALUE="${AUTOMATOR_HEADED:-0}"
@@ -64,8 +65,19 @@ SUMMARY_CMD=(
   --output "${SUMMARY_OUTPUT_PATH}"
 )
 
+OFFERS_CMD=(
+  "${PYTHON_CMD}"
+  "${SUMMARY_SCRIPT}"
+  --input "${OUTPUT_CSV_PATH}"
+  --output "${OFFERS_OUTPUT_PATH}"
+  --offers-only
+)
+
 echo "[runner] Executando processamento: ${PROCESS_CMD[*]}"
 "${PROCESS_CMD[@]}"
 
 echo "[runner] Executando resumo: ${SUMMARY_CMD[*]}"
 "${SUMMARY_CMD[@]}"
+
+echo "[runner] Executando resumo de ofertas: ${OFFERS_CMD[*]}"
+"${OFFERS_CMD[@]}"

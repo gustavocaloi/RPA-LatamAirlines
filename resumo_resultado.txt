@@ -1,290 +1,316 @@
 *Resumo de precos*
-Atualizado em: 05/10/2026 21:23
-Comparado com: 01/10/2026 13:41
+Atualizado em: 15/10/2026 10:46
+Comparado com: 12/10/2026 21:28
 
 *Panorama*
-- Trechos mais baixos: 2
-- Trechos mais altos: 36
-- Trechos sem alteracao: 32
+- Trechos mais baixos: 13
+- Trechos mais altos: 55
+- Trechos sem alteracao: 0
 - Trechos sem historico: 0
 
 *Voos*
-*12/10/2026 a 16/10/2026*
-- Ida: SJP -> SAO (12/10/2026)
-  🔴 Mais alto +BRL 240.00 | de BRL 745.03 para BRL 985.03
-  📉 Preço alvo: 🚫 Evitar: BRL 985.03 (acima de BRL 400.00)
-- Volta: SAO -> SJP (16/10/2026)
-  🔴 Mais alto +BRL 11.61 | de BRL 745.04 para BRL 756.65
-  📉 Preço alvo: 🚫 Evitar: BRL 756.65 (acima de BRL 400.00)
-
 *19/10/2026 a 23/10/2026*
 - Ida: SJP -> SAO (19/10/2026)
-  ⚪ Igual | BRL 501.03
-  📉 Preço alvo: 🚫 Evitar: BRL 501.03 (acima de BRL 400.00)
+  🔴 Mais alto +BRL 203.66 | de BRL 741.39 para BRL 945.05
+  📉 Preço alvo: 🚫 Evitar: BRL 945.05 (acima de BRL 400.00)
 - Volta: SAO -> SJP (23/10/2026)
-  🔴 Mais alto +BRL 239.39 | de BRL 505.65 para BRL 745.04
-  📉 Preço alvo: 🚫 Evitar: BRL 745.04 (acima de BRL 400.00)
+  🔴 Mais alto +BRL 367.22 | de BRL 350.05 para BRL 717.27
+  📉 Preço alvo: 🚫 Evitar: BRL 717.27 (acima de BRL 400.00)
+- Total ida e volta: 🚫 Evitar: BRL 1662.32 (acima de BRL 800.00)
 
 *26/10/2026 a 30/10/2026*
 - Ida: SJP -> SAO (26/10/2026)
-  🔴 Mais alto +BRL 2.00 | de BRL 499.03 para BRL 501.03
-  📉 Preço alvo: 🚫 Evitar: BRL 501.03 (acima de BRL 400.00)
+  🔴 Mais alto +BRL 555.51 | de BRL 387.14 para BRL 942.65
+  📉 Preço alvo: 🚫 Evitar: BRL 942.65 (acima de BRL 400.00)
 - Volta: SAO -> SJP (30/10/2026)
-  🔴 Mais alto +BRL 133.00 | de BRL 535.04 para BRL 668.04
-  📉 Preço alvo: 🚫 Evitar: BRL 668.04 (acima de BRL 400.00)
+  🔴 Mais alto +BRL 313.51 | de BRL 480.55 para BRL 794.06
+  📉 Preço alvo: 🚫 Evitar: BRL 794.06 (acima de BRL 400.00)
+- Total ida e volta: 🚫 Evitar: BRL 1736.71 (acima de BRL 800.00)
 
 *02/11/2026 a 06/11/2026*
 - Ida: SJP -> SAO (02/11/2026)
-  ⚪ Igual | BRL 403.03
-  📉 Preço alvo: 🚫 Evitar: BRL 403.03 (acima de BRL 400.00)
+  🔴 Mais alto +BRL 10.21 | de BRL 298.04 para BRL 308.25
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 308.25 (bom até BRL 260.00; evitar acima de BRL 400.00)
 - Volta: SAO -> SJP (06/11/2026)
-  ⚪ Igual | BRL 467.04
-  📉 Preço alvo: 🚫 Evitar: BRL 467.04 (acima de BRL 400.00)
+  🔴 Mais alto +BRL 115.52 | de BRL 220.45 para BRL 335.97
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 335.97 (bom até BRL 260.00; evitar acima de BRL 400.00)
+- Total ida e volta: ⚠️ Acima do bom: BRL 644.22 (bom até BRL 520.00; evitar acima de BRL 800.00)
 
 *09/11/2026 a 13/11/2026*
 - Ida: SJP -> SAO (09/11/2026)
-  ⚪ Igual | BRL 403.03
-  📉 Preço alvo: 🚫 Evitar: BRL 403.03 (acima de BRL 400.00)
+  🔴 Mais alto +BRL 112.81 | de BRL 195.44 para BRL 308.25
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 308.25 (bom até BRL 260.00; evitar acima de BRL 400.00)
 - Volta: SAO -> SJP (13/11/2026)
-  ⚪ Igual | BRL 467.04
-  📉 Preço alvo: 🚫 Evitar: BRL 467.04 (acima de BRL 400.00)
+  🔴 Mais alto +BRL 86.42 | de BRL 220.45 para BRL 306.87
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 306.87 (bom até BRL 260.00; evitar acima de BRL 400.00)
+- Total ida e volta: ⚠️ Acima do bom: BRL 615.12 (bom até BRL 520.00; evitar acima de BRL 800.00)
 
 *16/11/2026 a 20/11/2026*
 - Ida: SJP -> SAO (16/11/2026)
-  ⚪ Igual | BRL 403.03
-  📉 Preço alvo: 🚫 Evitar: BRL 403.03 (acima de BRL 400.00)
+  🔴 Mais alto +BRL 10.21 | de BRL 298.04 para BRL 308.25
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 308.25 (bom até BRL 260.00; evitar acima de BRL 400.00)
 - Volta: SAO -> SJP (20/11/2026)
-  🔴 Mais alto +BRL 28.59 | de BRL 438.45 para BRL 467.04
-  📉 Preço alvo: 🚫 Evitar: BRL 467.04 (acima de BRL 400.00)
+  🟢 Mais baixo -BRL 185.38 | de BRL 492.25 para BRL 306.87
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 306.87 (bom até BRL 260.00; evitar acima de BRL 400.00)
+- Total ida e volta: ⚠️ Acima do bom: BRL 615.12 (bom até BRL 520.00; evitar acima de BRL 800.00)
 
 *23/11/2026 a 27/11/2026*
 - Ida: SJP -> SAO (23/11/2026)
-  ⚪ Igual | BRL 403.03
-  📉 Preço alvo: 🚫 Evitar: BRL 403.03 (acima de BRL 400.00)
+  🔴 Mais alto +BRL 55.41 | de BRL 501.64 para BRL 557.05
+  📉 Preço alvo: 🚫 Evitar: BRL 557.05 (acima de BRL 400.00)
 - Volta: SAO -> SJP (27/11/2026)
-  ⚪ Igual | BRL 467.04
-  📉 Preço alvo: 🚫 Evitar: BRL 467.04 (acima de BRL 400.00)
+  🔴 Mais alto +BRL 86.42 | de BRL 220.45 para BRL 306.87
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 306.87 (bom até BRL 260.00; evitar acima de BRL 400.00)
+- Total ida e volta: 🚫 Evitar: BRL 863.92 (acima de BRL 800.00)
 
 *30/11/2026 a 04/12/2026*
 - Ida: SJP -> SAO (30/11/2026)
-  🔴 Mais alto +BRL 23.00 | de BRL 380.03 para BRL 403.03
-  📉 Preço alvo: 🚫 Evitar: BRL 403.03 (acima de BRL 400.00)
+  🔴 Mais alto +BRL 73.59 | de BRL 195.44 para BRL 269.03
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 269.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
 - Volta: SAO -> SJP (04/12/2026)
-  🟢 Mais baixo -BRL 26.39 | de BRL 410.04 para BRL 383.65
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 383.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 95.22 | de BRL 238.04 para BRL 333.26
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 333.26 (bom até BRL 260.00; evitar acima de BRL 400.00)
+- Total ida e volta: ⚠️ Acima do bom: BRL 602.29 (bom até BRL 520.00; evitar acima de BRL 800.00)
 
 *07/12/2026 a 11/12/2026*
 - Ida: SJP -> SAO (07/12/2026)
-  🔴 Mais alto +BRL 5.00 | de BRL 380.03 para BRL 385.03
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 385.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 56.00 | de BRL 213.03 para BRL 269.03
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 269.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
 - Volta: SAO -> SJP (11/12/2026)
-  🔴 Mais alto +BRL 26.39 | de BRL 383.65 para BRL 410.04
-  📉 Preço alvo: 🚫 Evitar: BRL 410.04 (acima de BRL 400.00)
+  🔴 Mais alto +BRL 68.83 | de BRL 238.04 para BRL 306.87
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 306.87 (bom até BRL 260.00; evitar acima de BRL 400.00)
+- Total ida e volta: ⚠️ Acima do bom: BRL 575.90 (bom até BRL 520.00; evitar acima de BRL 800.00)
 
 *14/12/2026 a 18/12/2026*
 - Ida: SJP -> SAO (14/12/2026)
-  🔴 Mais alto +BRL 5.00 | de BRL 380.03 para BRL 385.03
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 385.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 56.00 | de BRL 213.03 para BRL 269.03
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 269.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
 - Volta: SAO -> SJP (18/12/2026)
-  ⚪ Igual | BRL 356.04
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 356.04 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 107.22 | de BRL 238.04 para BRL 345.26
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 345.26 (bom até BRL 260.00; evitar acima de BRL 400.00)
+- Total ida e volta: ⚠️ Acima do bom: BRL 614.29 (bom até BRL 520.00; evitar acima de BRL 800.00)
 
 *21/12/2026 a 25/12/2026*
 - Ida: SJP -> SAO (21/12/2026)
-  🔴 Mais alto +BRL 4.00 | de BRL 327.03 para BRL 331.03
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 331.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 56.00 | de BRL 213.03 para BRL 269.03
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 269.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
 - Volta: SAO -> SJP (25/12/2026)
-  ⚪ Igual | BRL 410.04
-  📉 Preço alvo: 🚫 Evitar: BRL 410.04 (acima de BRL 400.00)
+  🔴 Mais alto +BRL 70.42 | de BRL 410.04 para BRL 480.46
+  📉 Preço alvo: 🚫 Evitar: BRL 480.46 (acima de BRL 400.00)
+- Total ida e volta: ⚠️ Acima do bom: BRL 749.49 (bom até BRL 520.00; evitar acima de BRL 800.00)
 
 *04/01/2027 a 08/01/2027*
 - Ida: SJP -> SAO (04/01/2027)
-  🔴 Mais alto +BRL 13.00 | de BRL 502.03 para BRL 515.03
-  📉 Preço alvo: 🚫 Evitar: BRL 515.03 (acima de BRL 400.00)
+  🔴 Mais alto +BRL 42.02 | de BRL 515.03 para BRL 557.05
+  📉 Preço alvo: 🚫 Evitar: BRL 557.05 (acima de BRL 400.00)
 - Volta: SAO -> SJP (08/01/2027)
-  ⚪ Igual | BRL 328.65
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 328.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 80.83 | de BRL 238.04 para BRL 318.87
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 318.87 (bom até BRL 260.00; evitar acima de BRL 400.00)
+- Total ida e volta: 🚫 Evitar: BRL 875.92 (acima de BRL 800.00)
 
 *11/01/2027 a 15/01/2027*
 - Ida: SJP -> SAO (11/01/2027)
-  🔴 Mais alto +BRL 4.00 | de BRL 326.03 para BRL 330.03
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 330.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 56.00 | de BRL 213.03 para BRL 269.03
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 269.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
 - Volta: SAO -> SJP (15/01/2027)
-  ⚪ Igual | BRL 328.65
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 328.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 82.22 | de BRL 232.65 para BRL 314.87
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 314.87 (bom até BRL 260.00; evitar acima de BRL 400.00)
+- Total ida e volta: ⚠️ Acima do bom: BRL 583.90 (bom até BRL 520.00; evitar acima de BRL 800.00)
 
 *18/01/2027 a 22/01/2027*
 - Ida: SJP -> SAO (18/01/2027)
-  🔴 Mais alto +BRL 4.00 | de BRL 326.03 para BRL 330.03
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 330.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 8.02 | de BRL 213.03 para BRL 221.05
+  📉 Preço alvo: 🔥 Excelente: BRL 221.05 (até BRL 230.00)
 - Volta: SAO -> SJP (22/01/2027)
-  ⚪ Igual | BRL 328.65
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 328.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🟢 Mais baixo -BRL 18.37 | de BRL 238.04 para BRL 219.67
+  📉 Preço alvo: 🔥 Excelente: BRL 219.67 (até BRL 230.00)
+- Total ida e volta: 🔥 Excelente: BRL 440.72 (até BRL 460.00)
 
 *25/01/2027 a 29/01/2027*
 - Ida: SJP -> SAO (25/01/2027)
-  🔴 Mais alto +BRL 4.00 | de BRL 326.03 para BRL 330.03
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 330.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 8.02 | de BRL 213.03 para BRL 221.05
+  📉 Preço alvo: 🔥 Excelente: BRL 221.05 (até BRL 230.00)
 - Volta: SAO -> SJP (29/01/2027)
-  ⚪ Igual | BRL 328.65
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 328.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🟢 Mais baixo -BRL 12.98 | de BRL 232.65 para BRL 219.67
+  📉 Preço alvo: 🔥 Excelente: BRL 219.67 (até BRL 230.00)
+- Total ida e volta: 🔥 Excelente: BRL 440.72 (até BRL 460.00)
 
 *01/02/2027 a 05/02/2027*
 - Ida: SJP -> SAO (01/02/2027)
-  🔴 Mais alto +BRL 15.42 | de BRL 326.03 para BRL 341.45
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 341.45 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 8.02 | de BRL 213.03 para BRL 221.05
+  📉 Preço alvo: 🔥 Excelente: BRL 221.05 (até BRL 230.00)
 - Volta: SAO -> SJP (05/02/2027)
-  ⚪ Igual | BRL 328.65
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 328.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🟢 Mais baixo -BRL 41.33 | de BRL 261.00 para BRL 219.67
+  📉 Preço alvo: 🔥 Excelente: BRL 219.67 (até BRL 230.00)
+- Total ida e volta: 🔥 Excelente: BRL 440.72 (até BRL 460.00)
 
 *08/02/2027 a 12/02/2027*
 - Ida: SJP -> SAO (08/02/2027)
-  🔴 Mais alto +BRL 4.00 | de BRL 326.03 para BRL 330.03
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 330.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 8.02 | de BRL 213.03 para BRL 221.05
+  📉 Preço alvo: 🔥 Excelente: BRL 221.05 (até BRL 230.00)
 - Volta: SAO -> SJP (12/02/2027)
-  ⚪ Igual | BRL 328.65
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 328.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🟢 Mais baixo -BRL 13.57 | de BRL 233.24 para BRL 219.67
+  📉 Preço alvo: 🔥 Excelente: BRL 219.67 (até BRL 230.00)
+- Total ida e volta: 🔥 Excelente: BRL 440.72 (até BRL 460.00)
 
 *15/02/2027 a 19/02/2027*
 - Ida: SJP -> SAO (15/02/2027)
-  🔴 Mais alto +BRL 4.00 | de BRL 326.03 para BRL 330.03
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 330.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🟢 Mais baixo -BRL 12.98 | de BRL 234.03 para BRL 221.05
+  📉 Preço alvo: 🔥 Excelente: BRL 221.05 (até BRL 230.00)
 - Volta: SAO -> SJP (19/02/2027)
-  ⚪ Igual | BRL 328.65
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 328.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🟢 Mais baixo -BRL 12.98 | de BRL 232.65 para BRL 219.67
+  📉 Preço alvo: 🔥 Excelente: BRL 219.67 (até BRL 230.00)
+- Total ida e volta: 🔥 Excelente: BRL 440.72 (até BRL 460.00)
 
 *22/02/2027 a 26/02/2027*
 - Ida: SJP -> SAO (22/02/2027)
-  🔴 Mais alto +BRL 4.00 | de BRL 326.03 para BRL 330.03
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 330.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 8.02 | de BRL 213.03 para BRL 221.05
+  📉 Preço alvo: 🔥 Excelente: BRL 221.05 (até BRL 230.00)
 - Volta: SAO -> SJP (26/02/2027)
-  ⚪ Igual | BRL 366.75
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 366.75 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🟢 Mais baixo -BRL 11.02 | de BRL 238.04 para BRL 227.02
+  📉 Preço alvo: 🔥 Excelente: BRL 227.02 (até BRL 230.00)
+- Total ida e volta: 🔥 Excelente: BRL 448.07 (até BRL 460.00)
 
 *01/03/2027 a 05/03/2027*
 - Ida: SJP -> SAO (01/03/2027)
-  🔴 Mais alto +BRL 4.00 | de BRL 326.03 para BRL 330.03
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 330.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🟢 Mais baixo -BRL 108.98 | de BRL 330.03 para BRL 221.05
+  📉 Preço alvo: 🔥 Excelente: BRL 221.05 (até BRL 230.00)
 - Volta: SAO -> SJP (05/03/2027)
-  🟢 Mais baixo -BRL 0.87 | de BRL 329.52 para BRL 328.65
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 328.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🟢 Mais baixo -BRL 12.98 | de BRL 232.65 para BRL 219.67
+  📉 Preço alvo: 🔥 Excelente: BRL 219.67 (até BRL 230.00)
+- Total ida e volta: 🔥 Excelente: BRL 440.72 (até BRL 460.00)
 
 *08/03/2027 a 12/03/2027*
 - Ida: SJP -> SAO (08/03/2027)
-  🔴 Mais alto +BRL 4.00 | de BRL 326.03 para BRL 330.03
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 330.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 8.02 | de BRL 213.03 para BRL 221.05
+  📉 Preço alvo: 🔥 Excelente: BRL 221.05 (até BRL 230.00)
 - Volta: SAO -> SJP (12/03/2027)
-  🔴 Mais alto +BRL 1.75 | de BRL 328.65 para BRL 330.40
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 330.40 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🟢 Mais baixo -BRL 12.98 | de BRL 232.65 para BRL 219.67
+  📉 Preço alvo: 🔥 Excelente: BRL 219.67 (até BRL 230.00)
+- Total ida e volta: 🔥 Excelente: BRL 440.72 (até BRL 460.00)
 
 *15/03/2027 a 19/03/2027*
 - Ida: SJP -> SAO (15/03/2027)
-  🔴 Mais alto +BRL 27.43 | de BRL 326.03 para BRL 353.46
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 353.46 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🟢 Mais baixo -BRL 108.43 | de BRL 330.03 para BRL 221.60
+  📉 Preço alvo: 🔥 Excelente: BRL 221.60 (até BRL 230.00)
 - Volta: SAO -> SJP (19/03/2027)
-  ⚪ Igual | BRL 355.04
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 355.04 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🟢 Mais baixo -BRL 18.37 | de BRL 238.04 para BRL 219.67
+  📉 Preço alvo: 🔥 Excelente: BRL 219.67 (até BRL 230.00)
+- Total ida e volta: 🔥 Excelente: BRL 441.27 (até BRL 460.00)
 
 *22/03/2027 a 26/03/2027*
 - Ida: SJP -> SAO (22/03/2027)
-  🔴 Mais alto +BRL 4.00 | de BRL 326.03 para BRL 330.03
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 330.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 8.02 | de BRL 213.03 para BRL 221.05
+  📉 Preço alvo: 🔥 Excelente: BRL 221.05 (até BRL 230.00)
 - Volta: SAO -> SJP (26/03/2027)
-  ⚪ Igual | BRL 765.65
-  📉 Preço alvo: 🚫 Evitar: BRL 765.65 (acima de BRL 400.00)
+  🔴 Mais alto +BRL 43.62 | de BRL 513.65 para BRL 557.27
+  📉 Preço alvo: 🚫 Evitar: BRL 557.27 (acima de BRL 400.00)
+- Total ida e volta: ⚠️ Acima do bom: BRL 778.32 (bom até BRL 520.00; evitar acima de BRL 800.00)
 
 *29/03/2027 a 02/04/2027*
 - Ida: SJP -> SAO (29/03/2027)
-  🔴 Mais alto +BRL 13.00 | de BRL 754.03 para BRL 767.03
-  📉 Preço alvo: 🚫 Evitar: BRL 767.03 (acima de BRL 400.00)
+  🔴 Mais alto +BRL 42.02 | de BRL 515.03 para BRL 557.05
+  📉 Preço alvo: 🚫 Evitar: BRL 557.05 (acima de BRL 400.00)
 - Volta: SAO -> SJP (02/04/2027)
-  ⚪ Igual | BRL 328.65
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 328.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 125.61 | de BRL 259.04 para BRL 384.65
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 384.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+- Total ida e volta: 🚫 Evitar: BRL 941.70 (acima de BRL 800.00)
 
 *05/04/2027 a 09/04/2027*
 - Ida: SJP -> SAO (05/04/2027)
-  🔴 Mais alto +BRL 4.00 | de BRL 326.03 para BRL 330.03
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 330.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 147.00 | de BRL 234.03 para BRL 381.03
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 381.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
 - Volta: SAO -> SJP (09/04/2027)
-  ⚪ Igual | BRL 328.65
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 328.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 152.00 | de BRL 232.65 para BRL 384.65
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 384.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+- Total ida e volta: ⚠️ Acima do bom: BRL 765.68 (bom até BRL 520.00; evitar acima de BRL 800.00)
 
 *12/04/2027 a 16/04/2027*
 - Ida: SJP -> SAO (12/04/2027)
-  🔴 Mais alto +BRL 4.00 | de BRL 326.03 para BRL 330.03
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 330.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 147.00 | de BRL 234.03 para BRL 381.03
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 381.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
 - Volta: SAO -> SJP (16/04/2027)
-  ⚪ Igual | BRL 328.65
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 328.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 152.00 | de BRL 232.65 para BRL 384.65
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 384.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+- Total ida e volta: ⚠️ Acima do bom: BRL 765.68 (bom até BRL 520.00; evitar acima de BRL 800.00)
 
 *19/04/2027 a 23/04/2027*
 - Ida: SJP -> SAO (19/04/2027)
-  🔴 Mais alto +BRL 4.00 | de BRL 326.03 para BRL 330.03
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 330.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 147.00 | de BRL 234.03 para BRL 381.03
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 381.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
 - Volta: SAO -> SJP (23/04/2027)
-  ⚪ Igual | BRL 765.65
-  📉 Preço alvo: 🚫 Evitar: BRL 765.65 (acima de BRL 400.00)
+  🔴 Mais alto +BRL 152.00 | de BRL 232.65 para BRL 384.65
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 384.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+- Total ida e volta: ⚠️ Acima do bom: BRL 765.68 (bom até BRL 520.00; evitar acima de BRL 800.00)
 
 *26/04/2027 a 30/04/2027*
 - Ida: SJP -> SAO (26/04/2027)
-  🔴 Mais alto +BRL 4.00 | de BRL 326.03 para BRL 330.03
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 330.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 147.00 | de BRL 234.03 para BRL 381.03
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 381.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
 - Volta: SAO -> SJP (30/04/2027)
-  ⚪ Igual | BRL 328.65
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 328.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 152.00 | de BRL 232.65 para BRL 384.65
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 384.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+- Total ida e volta: ⚠️ Acima do bom: BRL 765.68 (bom até BRL 520.00; evitar acima de BRL 800.00)
 
 *03/05/2027 a 07/05/2027*
 - Ida: SJP -> SAO (03/05/2027)
-  🔴 Mais alto +BRL 5.00 | de BRL 380.03 para BRL 385.03
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 385.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 1.00 | de BRL 385.03 para BRL 386.03
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 386.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
 - Volta: SAO -> SJP (07/05/2027)
-  ⚪ Igual | BRL 328.65
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 328.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 152.00 | de BRL 232.65 para BRL 384.65
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 384.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+- Total ida e volta: ⚠️ Acima do bom: BRL 770.68 (bom até BRL 520.00; evitar acima de BRL 800.00)
 
 *10/05/2027 a 14/05/2027*
 - Ida: SJP -> SAO (10/05/2027)
-  🔴 Mais alto +BRL 4.00 | de BRL 326.03 para BRL 330.03
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 330.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 147.00 | de BRL 234.03 para BRL 381.03
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 381.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
 - Volta: SAO -> SJP (14/05/2027)
-  ⚪ Igual | BRL 328.65
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 328.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 152.00 | de BRL 232.65 para BRL 384.65
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 384.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+- Total ida e volta: ⚠️ Acima do bom: BRL 765.68 (bom até BRL 520.00; evitar acima de BRL 800.00)
 
 *17/05/2027 a 21/05/2027*
 - Ida: SJP -> SAO (17/05/2027)
-  🔴 Mais alto +BRL 4.00 | de BRL 326.03 para BRL 330.03
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 330.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 147.00 | de BRL 234.03 para BRL 381.03
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 381.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
 - Volta: SAO -> SJP (21/05/2027)
-  ⚪ Igual | BRL 355.04
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 355.04 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 147.00 | de BRL 259.04 para BRL 406.04
+  📉 Preço alvo: 🚫 Evitar: BRL 406.04 (acima de BRL 400.00)
+- Total ida e volta: ⚠️ Acima do bom: BRL 787.07 (bom até BRL 520.00; evitar acima de BRL 800.00)
 
 *24/05/2027 a 28/05/2027*
 - Ida: SJP -> SAO (24/05/2027)
-  🔴 Mais alto +BRL 4.00 | de BRL 326.03 para BRL 330.03
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 330.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 147.00 | de BRL 234.03 para BRL 381.03
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 381.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
 - Volta: SAO -> SJP (28/05/2027)
-  ⚪ Igual | BRL 765.65
-  📉 Preço alvo: 🚫 Evitar: BRL 765.65 (acima de BRL 400.00)
+  🔴 Mais alto +BRL 107.00 | de BRL 580.65 para BRL 687.65
+  📉 Preço alvo: 🚫 Evitar: BRL 687.65 (acima de BRL 400.00)
+- Total ida e volta: 🚫 Evitar: BRL 1068.68 (acima de BRL 800.00)
 
 *31/05/2027 a 04/06/2027*
 - Ida: SJP -> SAO (31/05/2027)
-  🔴 Mais alto +BRL 4.00 | de BRL 326.03 para BRL 330.03
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 330.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 147.00 | de BRL 234.03 para BRL 381.03
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 381.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
 - Volta: SAO -> SJP (04/06/2027)
-  ⚪ Igual | BRL 328.65
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 328.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 152.00 | de BRL 232.65 para BRL 384.65
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 384.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+- Total ida e volta: ⚠️ Acima do bom: BRL 765.68 (bom até BRL 520.00; evitar acima de BRL 800.00)
 
 *07/06/2027 a 11/06/2027*
 - Ida: SJP -> SAO (07/06/2027)
-  🔴 Mais alto +BRL 4.00 | de BRL 326.03 para BRL 330.03
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 330.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 51.00 | de BRL 330.03 para BRL 381.03
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 381.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
 - Volta: SAO -> SJP (11/06/2027)
-  ⚪ Igual | BRL 328.65
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 328.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 152.00 | de BRL 232.65 para BRL 384.65
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 384.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+- Total ida e volta: ⚠️ Acima do bom: BRL 765.68 (bom até BRL 520.00; evitar acima de BRL 800.00)
 
 *14/06/2027 a 18/06/2027*
 - Ida: SJP -> SAO (14/06/2027)
-  🔴 Mais alto +BRL 4.00 | de BRL 326.03 para BRL 330.03
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 330.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 147.00 | de BRL 234.03 para BRL 381.03
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 381.03 (bom até BRL 260.00; evitar acima de BRL 400.00)
 - Volta: SAO -> SJP (18/06/2027)
-  ⚪ Igual | BRL 328.65
-  📉 Preço alvo: ⚠️ Acima do bom: BRL 328.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+  🔴 Mais alto +BRL 152.00 | de BRL 232.65 para BRL 384.65
+  📉 Preço alvo: ⚠️ Acima do bom: BRL 384.65 (bom até BRL 260.00; evitar acima de BRL 400.00)
+- Total ida e volta: ⚠️ Acima do bom: BRL 765.68 (bom até BRL 520.00; evitar acima de BRL 800.00)
